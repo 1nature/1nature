@@ -11,7 +11,7 @@ Link to the sample section: [https://www.linkedin.com/in/ayokunle-olanipekun-011
 
 
 ## My headshot
-![My headshot](C:\Users\User\OneDrive\Pictures\Ayo_Peks.jpg)
+![My headshot](https://getavataaars.com/?avatarStyle=Transparent&mouthType=Serious&skinColor=Brown&topType=ShortHairShortFlat)
 <!--
 **1nature/1nature** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
