@@ -5,9 +5,9 @@
 Attempting the task in question
 
 
-# Links to my LinkedIn
+## Link to my LinkedIn
 
-Link to the sample section: [[Link Text](https://www.linkedin.com/in/ayokunle-olanipekun-0112a1281/)](#sample-section).
+Link to the sample section: [https://www.linkedin.com/in/ayokunle-olanipekun-0112a1281/](#sample-section).
 
 
 
