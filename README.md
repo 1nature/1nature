@@ -1,4 +1,4 @@
-## Hyperion Dev Learner 👋
+## Dev 👋
 
 
 ## Part 2: Practical task 2
