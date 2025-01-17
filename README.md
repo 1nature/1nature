@@ -1,8 +1,8 @@
 ## Dev 👋
 
 
-## Part 2: Practical task 2
-Attempting the task in question
+## Practical Dev
+Attempting....
 
 
 ## Link to my LinkedIn
