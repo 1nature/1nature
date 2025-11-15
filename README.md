@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning a lot
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with 
-- 💬 Ask me about C#
+- 💬 Ask me about C# & Python
 - 📫 How to reach me: [https://www.linkedin.com/in/ayokunle-olanipekun-0112a1281/]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like legal/investigative movies/shows
